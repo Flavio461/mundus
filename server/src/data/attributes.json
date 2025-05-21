@@ -1,0 +1,8 @@
+{
+  "default": {
+    "forca": 1,
+    "velocidade": 1,
+    "vitalidade": 1,
+    "magia": 1
+  }
+}
